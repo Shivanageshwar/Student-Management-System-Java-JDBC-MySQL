@@ -1,0 +1,11 @@
+*.class
+# IntelliJ
+.idea/
+*.iml
+# VSCode
+.vscode/
+# Logs
+*.log
+# Optional: keep local database dump files out of repo
+*.sql
+
